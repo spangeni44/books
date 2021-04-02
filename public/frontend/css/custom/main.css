@@ -1,0 +1,178 @@
+
+  .img-seller-logo {
+        width: 150px;
+        height: 110px;
+    }
+    .img-seller-banner {
+        width: 840px;
+        height: 288px;
+    }
+	
+.header-affiliate{ position: relative; width: 100%; }
+.left-column{ color: #fff; } 
+.left-column h3{ font-family:'robotobold'; margin-bottom: 0px; }
+.left-column h2{ margin: 0px; padding: 0px; font-weight: 400; font-family:'robotoregular'; }
+.left-column span{ font-family:'robotoregular'; }
+.left-column span b{ font-family:'robotobold'; }
+.left-column .btn-signup{ background-color: #ff9c34; border: 0px solid #fff; color: #fff; text-decoration: none; border-radius: 5px 5px 5px 5px; -moz-border-radius: 5px 5px 5px 5px; -webkit-border-radius: 5px 5px 5px 5px;  display: inline-block; font-weight: bold; }
+.left-column .btn-signup:hover{ background-color: #fd703d; }
+.right-column { color: #fff; }
+.seller-login{ background-color: #fff; border-radius: 8px; -webkit-border-radius: 8px; -moz-border-radius: 8px; -webkit-box-shadow: -1px 1px 19px 2px rgba(189,189,189,0.7);-moz-box-shadow: -1px 1px 19px 2px rgba(189,189,189,0.7); box-shadow: -1px 1px 19px 2px rgba(189,189,189,0.7); min-height: 150px;}
+.goto-sell p {   font-size: 15px;    line-height: 24px;    font-weight: normal; }
+form#faq ul li { display: inline-block; float: none; width: 100%;list-style: none; position: relative;}
+.close:focus, .close:hover{ outline: none;} 
+@media (min-width: 768px){
+.mobile-video{ display: none; }
+.desktop-video { display: block; }
+.fullwidth .modal-dialog{ max-width: 740px; }
+.header-affiliate{ background: url('https://cdn.goto.com.pk/uploads/cms/2019/5/5cdd27226a65c.sells-on-goto-banner.jpg') no-repeat top center transparent; background-size: cover; padding: 30px 0px;}
+.left-column h3{ font-size: 40px; margin-top: 75px; }
+.left-column h2{ font-size: 90px; line-height: 90px; }
+.left-column strong{ font-size: 30px;  }
+.left-column span{ font-size: 24px; }
+.left-column .btn-signup{ font-size:18px; padding: 10px 45px; margin: 20px 0px 0px 0px!important; }
+.right-column .normal{ font-size: 22px; }
+div#accordion {margin-top: 50px;}
+#faq-list li:first-child{ margin-top: 0px!important; }
+.hidden-mobile-portrait { display: block;}
+.visible-mobile-portrait { display: none;}
+#faq-list { overflow: hidden; margin-top: 15px; }
+.easy-steps, .goto-sell{ padding: 50px 0px; }
+.easy-steps h2, .goto-sell h2{ font-size: 36px; }
+.What-say .item{ opacity: 0.5; margin-bottom: 10px; }
+.What-say .active:hover .item { opacity: 1; }
+.USPs-last.col.col-md-4 { margin-left: 33.33%;}
+.six-column-wraper .block{ padding: 15px; }
+.block-sop { margin: 20px 0px;}
+.six-column-wraper .comments{ padding: 15px 0px; min-height: 90px; max-height: 90px; height: 90px;  } 
+.mobile-image{ display: none;}
+.desktop-image { display: block; }
+}
+@media (max-width: 767px){
+.mobile-video{ display: block; }
+.desktop-video { display: none; }
+.header-affiliate{ background: url('https://cdn.goto.com.pk/uploads/cms/2019/7/5d380062d2f95.seller-banner-bg-mb.jpg') no-repeat top center transparent; background-size: cover; padding: 20px 0px; }
+.header-affiliate span { line-height: 18px; margin-top: 5px; }
+.fullwidth{ margin: 0px -15px; }
+.left-column, .right-column{ text-align: center; }
+.left-column h3{ font-size: 18px; }
+.left-column h2{ font-size: 20px; line-height: 20px; }
+.left-column strong{ font-size: 15px;  }
+.left-column span{ font-size: 15px; display: block; }
+.left-column .btn-signup{ font-size: 13px; padding: 5px 20px; margin: 5px 0px 0px 0px!important; }
+.right-column{ margin-top: 5%;}
+.right-column .normal{ font-size: 20px; font-weight: bold; }
+.hidden-mobile-portrait { display: none;}
+.visible-mobile-portrait { display: block;}
+.easy-steps .sign-up, .wt-sig-prc-wrapper .sign-up{ font-size: 16px; padding: 12px 20px; margin: 15px 0px; }
+.six-column-wraper .col{padding: 10px 0px;} 
+.block-sop{ margin: 0px 5px; } 
+.block-sop h3 { font-size: 16px; height: 36px; }
+.six-column-wraper .block{ padding: 10px 5px; }
+.six-column-wraper .comments{ font-size: 13px; padding: 0px 0px 10px 0px; min-height: 120px;    max-height: 120px;    height: 120px;} 
+div#accordion {margin-top: 10px;}
+#faq-list { height: 190px!important; overflow: hidden; margin-top: 15px;}
+.easy-steps, .goto-sell{ padding: 20px 0px; }
+.easy-steps h2, .goto-sell h2{ font-size: 22px; }
+.What-say .item .block { -webkit-box-shadow: 1px 1px 20px 2px rgba(0,0,0,0.2);-moz-box-shadow: 1px 1px 20px 2px rgba(0,0,0,0.2); box-shadow: 1px 1px 20px 2px rgba(0,0,0,0.2); } 
+.What-say .name{ color: #fd703d; }
+.What-say .item{ margin-bottom: 10px; }
+.faq-accordian h2{ padding: 0px 0px 10px 0px; font-size: 24px;  }
+.what-say-wraper {padding-bottom: 0px!important;}
+.faqs-data { padding: 8px 15px; font-weight: normal; margin: 0px auto 15px auto;}
+.faqs-data i{ font-size: 26px; }
+.faq-accordian img.img-responsive { width: 300px; height: auto; margin: 10px auto 0px auto; }
+}
+@media (max-width: 480px){   }
+@media (min-width: 481px){   }
+@media only screen and (min-width: 768px) and (max-width: 992px){
+.left-column h3{ font-size: 25px; }
+.left-column h2 { font-size: 40px; line-height: 40px; }
+.left-column strong{ font-size: 18px; }
+.left-column span { font-size: 15px; }
+#faq-list{ height: 180px!important; }
+.offset-md-1.right-column{ margin-left: 0px;}
+.right-column { width: 50%; flex: 0 0 50%; max-width: 50%;}
+.right-column .block{ padding: 5px 10px; }
+.left-column .btn-signup{ font-size: 18px;  padding: 8px 40px;  margin: 10px 0px 0px 0px!important;}
+.easy-steps h2, .goto-sell h2{ padding: 15px 0px!important; font-size: 28px; }
+.easy-steps .sign-up, .wt-sig-prc-wrapper .sign-up{ font-size: 18px; padding: 10px 25px; margin: 10px 0px; }
+.what-say-wraper{ padding: 0px 0px 15px 0px}
+.faqs-data { padding: 8px 15px;}
+.faqs-data i, .wt-sig-prc_ttl-box h2{ font-size: 36px; }
+}
+@media (min-width: 993px){ 
+#faq-list { height: 290px!important;}
+span.login-user { margin: 0px 15px; font-size: 15px;}
+.easy-steps .sign-up{ font-size: 18px; padding: 10px 45px; margin: 25px 0px; }
+.wt-sig-prc-wrapper .sign-up{ font-size: 18px; padding: 10px 45px; margin: 5px 0px; }
+.what-say-wraper { padding: 25px 0px 35px 0px; }
+.faqs-data { padding: 10px 18px;}
+.wt-sig-prc_ttl-box h2{ font-size: 36px; }
+.wt-sig-prc_ttl-box h3{ font-size: 26px; }
+}
+.affiliate-container{ width:100%; overflow:hidden; }
+.affiliate-container ul{ list-style:none;  position:absolute;  margin-top: 0px !important; width: 100%; }
+.affiliate-container li{ height:auto;  width: 100%; -webkit-transition:ease-in-out background-color .15s .05s;-o-transition:ease-in-out background-color .15s .05s;transition:ease-in-out background-color .15s .05s}
+.six-column-wraper{ background-color: #ffffff; display: inline-block; width: 100%; }
+.six-column-wraper .col{ float: left; }
+.easy-steps{ background-color: #f6f8f2; display: inline-block; width: 100%; }
+.easy-steps img{ margin: 0px auto; } 
+.start-selling { background-color: #f6f8f2; display: inline-block; width: 100%; }
+.easy-steps h2, .goto-sell h2{ font-weight: bold; padding: 0px 0px 25px 0px; margin: 0px; }
+.easy-steps .sign-up, .wt-sig-prc-wrapper .sign-up{ background-color: #ff9c34; color: #ffffff; font-weight: bold; border-radius: 8px; -moz-border-radius: 8px; -webkit-border-radius: 8px; display: inline-block; }
+.block-sop { padding: 25px 0px 0px 0px; -webkit-box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.1); -moz-box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.1); box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.1); border-radius: 8px; -moz-border-radius: 8px; -webkit-border-radius: 8px;}
+.block-sop:hover{ background-color: #fd7e14; }.block-sop:hover h3, .block-sop:hover p{ color: #fff;} 
+.block-sop .icon img { width: 80px; height: 60px; }
+.block-sop .icon.delivery img { background: url('https://cdn.goto.com.pk/uploads/cms/2019/7/5d3839a86e110.delivery.png') no-repeat top center transparent; background-size: cover;  }
+.block-sop:hover .icon.delivery img, .block-sop:focus .icon.delivery img { background: url('https://cdn.goto.com.pk/uploads/cms/2019/7/5d3839fd5dada.delivery-hover.png') no-repeat top center transparent; }
+.block-sop .icon.nationwide img {  no-repeat top center transparent; background-size: cover;  }
+.block-sop:hover .icon.nationwide img, .block-sop:focus .icon.nationwide img { background: url('https://cdn.goto.com.pk/uploads/cms/2019/7/5d396f0794e90.nationwide-2-hover.png') no-repeat top center transparent; }
+.block-sop .icon.payment img { background: url('https://cdn.goto.com.pk/uploads/cms/2019/7/5d383c1accafd.easy-payment.png') no-repeat top center transparent; background-size: cover;  }
+.block-sop:hover .icon.payment img, .block-sop:focus .icon.payment img { background: url('https://cdn.goto.com.pk/uploads/cms/2019/7/5d383c29e4079.easy-payment-hover.png') no-repeat top center transparent; }
+.block-sop .icon.return img { background: url('https://cdn.goto.com.pk/uploads/cms/2019/7/5d383c935eb4b.easy-return.png') no-repeat top center transparent; background-size: cover;  }
+.block-sop:hover .icon.return img, .block-sop:focus .icon.return img { background: url('https://cdn.goto.com.pk/uploads/cms/2019/7/5d383e265c04e.easy-return-hover.png') no-repeat top center transparent; }
+.block-sop .icon.listing img { background: url('https://cdn.goto.com.pk/uploads/cms/2019/7/5d383d31cbe7c.unlimited-listing.png') no-repeat top center transparent; background-size: cover;  }
+.block-sop:hover .icon.listing img, .block-sop:focus .icon.listing img { background: url('https://cdn.goto.com.pk/uploads/cms/2019/7/5d383d4f037ef.unlimited-listing-hover.png') no-repeat top center transparent; }
+.block-sop .icon.marketing img { background: url('https://cdn.goto.com.pk/uploads/cms/2019/7/5d383db038b5a.marketing.png') no-repeat top center transparent; background-size: cover;  }
+.block-sop:hover .icon.marketing img, .block-sop:focus .icon.marketing img { background: url('https://cdn.goto.com.pk/uploads/cms/2019/7/5d383dbeb156e.marketing-hover.png') no-repeat top center transparent; }
+.easy-steps .sign-up:hover, .wt-sig-prc-wrapper .sign-up:hover{ background-color:#fd703d; color: #ffffff; font-weight: bold; border-radius: 8px; -moz-border-radius: 8px; -webkit-border-radius: 8px; display: inline-block; }.goto-sell .table{ margin-bottom: 0px; }
+.six-column-wraper .block{ position: relative; width: 100%;  }
+.six-column-wraper .icon { display: inline-block; }
+.six-column-wraper .comments{ border-bottom: 0px solid #f6f6f6; display: block; }
+.six-column-wraper{ padding: 25px 0px; text-align: center; }
+.faqs-data { background-color: #ff9c34; color: #ffffff!important;font-weight: bold;border-radius: 8px;-moz-border-radius: 8px; -webkit-border-radius: 8px; display: inline-block; margin: 10px 0px; cursor: pointer; font-size: 18px; }
+.faqs-data:hover{ background-color: #fd703d; }
+.modal.fade.all-faqs { top: 80px;}
+.modal-header .close { color: #000!important; margin-top: -18px!important;right: 15px!important; opacity: 1!important;}
+.modal-body h3 {font-size: 14px;  font-weight: bold;   margin: 10px 0px;}
+.modal-body p, .modal-body ul { margin-bottom: 0px;}
+.box-shadow{ -webkit-box-shadow: 1px 0px 9px 2px #f5f5f5; -moz-box-shadow:1px 0px 9px 2px #f5f5f5; box-shadow: 1px 0px 9px 2px #f5f5f5; -webkit-border-radius: 8px; -moz-border-radius: 8px;
+border-radius: 8px;}
+.faq-accordian {  padding-top: 35px; background-color: #f7f8f2; }
+.faq-accordian .card-header { border: 0px solid #fd703d!important; font-weight: normal;  text-align: left; position: relative;    border-radius: 0px;  -moz-border-radius: 0px; -webkit-border-radius: 0px; padding: 0px; background-color: transparent;}
+.faq-accordian .card-header button{ border-radius: 8px;  -moz-border-radius: 8px; -webkit-border-radius: 8px; color: #fd703d; outline: none 0px;  background-color: transparent; display: block; width: 100%; text-align: left; padding: 15px; font-size: 14px; position: relative; white-space: normal; font-size: 15px;}
+.faq-accordian .card-header button[aria-expanded="false"]{ border: 1px solid #444!important; color: #444; }
+.faq-accordian .card-header button[aria-expanded="true"]{border: 1px solid #fd703d!important; color: #fd703d;}
+.faq-accordian .card-header button span.arrow-icon{ position: absolute; right: 10px; top: 15px; font-family: 'Font Awesome 5 Free'; font-weight: 900; display: inline-block; width: 15px; height: 15px;}
+.faq-accordian .card-header button[aria-expanded="true"] span.arrow-icon:before{  content: "\f107"; }
+.faq-accordian .card-header button[aria-expanded="false"] span.arrow-icon:before{  content: "\f104"; }
+.faq-accordian .card-header button:hover,.faq-accordian .card-header button:focus, .faq-accordian .card-header button:active { text-decoration: none;}
+.faq-accordian .card .card-body { padding: 15px;  }
+.faq-accordian .card .card-body p{ font-size: 14px;}
+.faq-accordian .card {  background-color: transparent; border: 0px solid rgba(0,0,0,.125); border-radius: 0rem; margin-bottom: 15px;}
+
+@media(max-width:767px) {
+span.login-user a {
+    color: #fff;
+    text-decoration: underline;
+}
+.orig-pro { text-transform: unset; }
+.earn-money-online h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.mobile-image{ display: block;}
+.desktop-image { display: none; }
+}

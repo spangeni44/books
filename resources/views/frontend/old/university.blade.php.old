@@ -1,0 +1,227 @@
+
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <title>Goto University</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" type="text/css" href="https://university.goto.com.pk/fonts/fontawesome/css/all.css">
+      <link rel="stylesheet" href="https://university.goto.com.pk/css/bootstrap3/bootstrap.min.css">
+      <link rel="stylesheet" type="text/css" href="https://university.goto.com.pk/css/owl.carousel.min.css" />
+      <link rel="stylesheet" href="{{asset('public/frontend/css/custom/theme.css')}}">
+	 
+   </head>
+   <body>
+  
+
+      
+      <!--  Header End -->
+      <!-- Content Start -->
+      <section class="expand-business">
+         <h2 class="text-center">Expand your business throughout Pakistan</h2>
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-4 col-md-4 col-sm-4 col-12">
+                  <img src="images/millions-of-customer.png" class="img-responsive" alt="" />
+                  <span>Millions of Customers </span>
+               </div>
+               <div class="col-lg-4 col-md-4 col-sm-4 col-12">
+                  <img src="images/thousands-sellers.png" class="img-responsive" alt="" />
+                  <span>Thousands of Sellers</span>
+               </div>
+               <div class="col-lg-4 col-md-4 col-sm-4 col-12">
+                  <img src="images/nationwide-shipment.png" class="img-responsive" alt="" />
+                  <span>Nationwide Shipment</span>
+               </div>
+            </div>
+         </div>
+      </section>
+      <section id="how-can-sell" class="how-can-sell text-center">
+         <h2>How can I sell on Goto?</h2>
+         <div class="container text-left">
+            <div class="row">
+               <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+					<div class="parent-block">
+						<div class="child-block"><img src="images/product-listing.png" class="img-responsive" alt="" /></div>
+						<div class="child-block"><h4>Product listing</h4>
+						<p>List your products on Goto product catalogue. Goto takes care of photography and marketing of the products.</p>
+						</div>
+					</div>
+			   </div>
+               <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+					<div class="parent-block">
+						<div class="child-block"><img src="images/packaging.png" class="img-responsive" alt="" /></div>
+						<div class="child-block"><h4>Packaging</h4>
+						<p>Pack the orders according to Goto guidelines within one business day.</p>
+						</div>
+					</div>
+			   </div>
+			</div>
+			<div class="row">
+               <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+					<div class="parent-block">
+						<div class="child-block"><img src="images/delivery.png" class="img-responsive" alt="" /></div>
+						<div class="child-block"><h4>Delivery</h4>
+						<p>Send your packed product to the customer directly through our designated 3PL courier service.</p>
+						</div>
+					</div>
+			   </div>
+               <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+					<div class="parent-block">
+						<div class="child-block"><img src="images/customer-support.png" class="img-responsive" alt="" /></div>
+						<div class="child-block"><h4>Customer Support</h4>
+						<p>Goto's 24/7 customer support deals with complaints and resolves them.</p>
+						</div>
+					</div>
+			   </div>
+			</div>
+         </div>
+      </section>
+	  <section class="become-a-seller">
+		<div class="container">
+			<span>Become A Part Of Our <strong>Seller Team</strong> Today</span><a href="https://www.goto.com.pk/contacts/vendor/form" class="btn-joinus pull-right">Join Us</a>
+		</div>
+	  </section>
+      <div class="what-to-say text-center">
+         <div id="faqs-list" class="faq-accordian">
+            <div class="container">
+               <div class="row">
+                  <h2 class="col-md-12 text-center">Goto University FAQs</h2>
+                  <div class="faq-accordion" id="accordion">
+                     <div class="card">
+                        <div class="card-header" id="headingOne">
+                           <h5 class="mb-0">
+                              <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                              What is ecommerce?<span class="arrow-icon"></span>
+                              </button>
+                           </h5>
+                        </div>
+                        <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                           <div class="card-body">
+                              <p>E-commerce is an online marketplace where customers meet the sellers and conduct transactions.</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="card">
+                        <div class="card-header" id="headingTwo">
+                           <h5 class="mb-0">
+                              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                              How does a marketplace operate?<span class="arrow-icon"></span>
+                              </button>
+                           </h5>
+                        </div>
+                        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                           <div class="card-body">
+                              <p>Sellers list their product on the e-commerce platform and customers purchase it from there.</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="card">
+                        <div class="card-header" id="headingThree">
+                           <h5 class="mb-0">
+                              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                              Why should I sell on Goto?<span class="arrow-icon"></span>
+                              </button>
+                           </h5>
+                        </div>
+                        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                           <div class="card-body">
+                              <p>Goto is one of the largest e-commerce stores in Pakistan with millions of customers nationwide.</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="card">
+                        <div class="card-header" id="headingFour">
+                           <h5 class="mb-0">
+                              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseThree">
+                              How should I sell?<span class="arrow-icon"></span>
+                              </button>
+                           </h5>
+                        </div>
+                        <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+                           <div class="card-body">
+                              <p>
+							  You can start by filling the Sell on Goto <a href="https://www.goto.com.pk/contacts/vendor/form">form</a> and our self signup representative will contact you.
+							  </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="card">
+                        <div class="card-header" id="headingfive">
+                           <h5 class="mb-0">
+                              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapsefive" aria-expanded="false" aria-controls="collapsefive">
+                              When will I get paid?<span class="arrow-icon"></span>
+                              </button>
+                           </h5>
+                        </div>
+                        <div id="collapsefive" class="collapse" aria-labelledby="headingfive" data-parent="#accordion">
+                           <div class="card-body">
+                              <p>You will be paid based on the locked credit days and orders fulfilled. </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="card">
+                        <div class="card-header" id="headingsix">
+                           <h5 class="mb-0">
+                              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapsesix" aria-expanded="false" aria-controls="collapsesix">
+                              Are there any charges for product listing?<span class="arrow-icon"></span>
+                              </button>
+                           </h5>
+                        </div>
+                        <div id="collapsesix" class="collapse" aria-labelledby="headingsix" data-parent="#accordion">
+                           <div class="card-body">
+                              <p>It’s free of cost! Goto will only charge a commission based on your product category.</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="card">
+                        <div class="card-header" id="headingseven">
+                           <h5 class="mb-0">
+                              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseseven" aria-expanded="false" aria-controls="collapseseven">
+                              How will I deliver the products?<span class="arrow-icon"></span>
+                              </button>
+                           </h5>
+                        </div>
+                        <div id="collapseseven" class="collapse" aria-labelledby="headingseven" data-parent="#accordion">
+                           <div class="card-body">
+                              <p>We use cross-dock and dropship as our shipment method. Our rider will create pickup from your given address, if your location falls in our service area.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- End Content Here -->
+      
+      <script src="js/jquery-2.2.4.min.js"></script>
+      <script src="js/bootstrap3/bootstrap.min.js"></script>
+      <script src="js/popper.min.js"></script>
+      <script src="js/owl.carousel.min.js"></script>
+      <script type="text/javascript">
+         $(document).ready(function(){
+            $('#backToTop').click(function() {
+				$("html, body").animate({scrollTop: 0}, 2000);
+			});
+		
+			$('#accordion .collapse').on('show.bs.collapse', function (e) {
+				$('#accordion .in').collapse('hide');
+			});
+			
+			$(".how-to").click(function() {
+				$('html,body').animate({
+				scrollTop: jQuery("#how-can-sell").offset().top},
+			2000);
+			});
+			$(".faqs").click(function() {
+				$('html,body').animate({
+				scrollTop: jQuery("#faqs-list").offset().top},
+			2000);
+			});
+		});
+		 
+		 
+      </script>
+   </body>
+</html>
